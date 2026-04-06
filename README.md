@@ -13,14 +13,14 @@ Exerciții practice pentru stăpânirea sintaxei Python, gestionarea datelor și
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-05.04.26
+## 05.04.26
 
 📝 Today's Focus / Foco de Hoje / Obiectivul de Astăzi:
 PT: Formas de interagir com o usuário e diferentes estilos de print.
 EN: Ways to interact with the user and different print styles.
 RO: Modalități de a interacționa cu utilizatorul și diferite stiluri de print.
 
-06.04.26
+## 06.04.26
 
 Studies | Estudos | Studii 🚀
 📅 Topic: Data Types & Output
