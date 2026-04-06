@@ -10,9 +10,18 @@ Practical exercises to master Python syntax, data handling, and programming logi
 ## 🇷🇴 Română
 Exerciții practice pentru stăpânirea sintaxei Python, gestionarea datelor și logica programării.
 - **Scop:** Construirea bazei pentru proiectul *Finance Guru*.
+
 ---------------------------------------------------------------------------------------------------------------------------
 
+05.04.26
+
+📝 Today's Focus / Foco de Hoje / Obiectivul de Astăzi:
+PT: Formas de interagir com o usuário e diferentes estilos de print.
+EN: Ways to interact with the user and different print styles.
+RO: Modalități de a interacționa cu utilizatorul și diferite stiluri de print.
+
 06.04.26
+
 Studies | Estudos | Studii 🚀
 📅 Topic: Data Types & Output
 PT: Exercícios práticos sobre tipos primitivos, entrada de dados e diferentes formas de exibição de resultados em Python.
