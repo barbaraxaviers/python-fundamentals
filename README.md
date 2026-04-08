@@ -89,10 +89,10 @@ Tech: Python 🐍
 Descrição / Description / Descriere
 
 
-PT: Programa simples que lê dois números reais, calcula a soma entre eles e exibe o resultado formatado.
+*PT:* Programa simples que lê dois números reais, calcula a soma entre eles e exibe o resultado formatado.
 
 
-EN: A simple program that reads two real numbers, calculates their sum, and displays the formatted result.
+*EN:* A simple program that reads two real numbers, calculates their sum, and displays the formatted result.
 
 
-RO: Un program simplu care citește două numere reale, calculează suma lor și afișează rezultatul formatat.
+*RO:* Un program simplu care citește două numere reale, calculează suma lor și afișează rezultatul formatat.
