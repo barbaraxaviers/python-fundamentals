@@ -11,6 +11,9 @@ Practical exercises to master Python syntax, data handling, and programming logi
 Exerciții practice pentru stăpânirea sintaxei Python, gestionarea datelor și logica programării.
 - **Scop:** Construirea bazei pentru proiectul *Finance Guru*.
 
+
+Este repositório contém meus exercícios do curso de Python do Gustavo Guanabara, mostrando minha evolução desde a lógica básica até a formatação profissional.
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## 05.04.26
@@ -96,3 +99,27 @@ Descrição / Description / Descriere
 
 
 *RO:* Un program simplu care citește două numere reale, calculează suma lor și afișează rezultatul formatat.
+
+
+## 09.04.26
+
+
+Título do Projeto / Project Title / Titlul Proiectului
+
+### 📈 Evolution / Evolução / Evoluție:
+
+
+- **Before:** Manual string repetition for tables.
+
+
+- **After:** Using f-string alignment `{tabuada:2}` for a professional layout
+
+
+*PT:* Minha evolução com Operadores Aritméticos.
+
+
+*EN:* My progress with Arithmetic Operators in Python.
+
+
+*RO:* Progresul meu cu operatorii aritmetici în Python.
+
