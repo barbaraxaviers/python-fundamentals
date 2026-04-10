@@ -1,3 +1,4 @@
+#Level Up: Deixando de brigar com a tabuada e dominando as f-strings
 
 #Operadores aritméticos - precisa de operandos - pode ser numero, string e até variaveis
 #nesse caso aqui são aritméticos = numeros ou variaveis que contem numeros
