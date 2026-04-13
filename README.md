@@ -131,28 +131,19 @@ Título do Projeto / Project Title / Titlul Proiectului
 Antecessor e Sucessor / Predecessor and Successor / Predecesor și Succesor
 
 
-🇧🇷 Português
-
-
-Script para calcular o antecessor e o sucessor de um número inteiro.
+*🇧🇷* Script para calcular o antecessor e o sucessor de um número inteiro.
 
 
 Conceitos: input(), int(), f-strings e .format().
 
 
-🇺🇸 English
-
-
-Script to calculate the predecessor and successor of an integer.
+*🇺🇸* Script to calculate the predecessor and successor of an integer.
 
 
 Concepts: input(), int(), f-strings, and .format().
 
 
-🇷🇴 Română
-
-
-Script pentru a calcula predecesorul și succesorul unui număr întreg.
+*🇷🇴* Script pentru a calcula predecesorul și succesorul unui număr întreg.
 
 
 Concepte: input(), int(), f-strings și .format().
