@@ -124,7 +124,8 @@ Título do Projeto / Project Title / Titlul Proiectului
 *RO:* Progresul meu cu operatorii aritmetici în Python.
 
 
-##13.04.26
+
+## 13.04.26
 
 
 Antecessor e Sucessor / Predecessor and Successor / Predecesor și Succesor
