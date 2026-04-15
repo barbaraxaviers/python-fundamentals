@@ -148,3 +148,26 @@ Concepts: input(), int(), f-strings, and .format().
 
 Concepte: input(), int(), f-strings și .format().
 
+
+## 14.04.2026
+
+# Operações Aritméticas / Arithmetic Operations / Operații Aritmetice
+
+**BR**
+
+Script para calcular o dobro, triplo, terça parte e raiz quadrada de um número. 
+
+Explora f-strings, o método `.format()` e a formatação de casas decimais `{:.2f}`.
+
+**US**
+
+Script to calculate the double, triple, third part, and square root of a number. 
+
+Explores f-strings, the `.format()` method, and decimal formatting `{:.2f}`.
+
+**RO**
+
+Script pentru a calcula dublul, triplul, a treia parte și rădăcina pătrată a unui număr. 
+
+Explorează f-strings, metoda `.format()` și formatarea zecimală `{:.2f}`.
+
