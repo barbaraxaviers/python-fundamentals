@@ -171,3 +171,24 @@ Script pentru a calcula dublul, triplul, a treia parte și rădăcina pătrată 
 
 Explorează f-strings, metoda `.format()` și formatarea zecimală `{:.2f}`.
 
+
+
+## 16.04.2026
+
+# Variáveis e Condicionais / Variables and Conditionals / Variabile și Condiționale
+
+**BR**
+Introdução ao armazenamento de dados na memória RAM e estruturas de decisão.
+Explora tipos de dados (`str`, `int`, `float`, `bool`) e o uso de `if`, `elif` e `else` para tomada de decisões.
+
+**US**
+Introduction to data storage in RAM and decision structures.
+Explores data types (`str`, `int`, `float`, `bool`) and the use of `if`, `elif`, and `else` for decision-making.
+
+**RO**
+Introducere în stocarea datelor în memoria RAM și structuri de decizie.
+Explorează tipurile de date (`str`, `int`, `float`, `bool`) și utilizarea `if`, `elif` și `else` pentru luarea deciziilor.
+
+---
+**Tech:** Python 🐍
+
