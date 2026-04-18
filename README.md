@@ -15,8 +15,7 @@ Scop: Construirea bazei pentru proiectul Finance Guru.
 Este repositório contém meus exercícios do curso de Python do Gustavo Guanabara, mostrando minha evolução desde a lógica básica até um código mais estruturado e legível.
 
 <br>
-############################################################
-
+<br>
 
 📅 Progresso / Progress / Progres
 📌 2026-04-05
@@ -27,9 +26,8 @@ PT: Formas de interagir com o usuário e diferentes estilos de print.
 EN: Ways to interact with the user and different print styles.
 RO: Modalități de a interacționa cu utilizatorul și diferite stiluri de print.
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-06
 
@@ -41,9 +39,8 @@ PT: Exercícios práticos sobre tipos primitivos, entrada de dados e diferentes 
 EN: Practical exercises on primitive types, data input, and different ways to display results in Python.
 RO: Exerciții practice despre tipuri primitive, introducerea datelor și diferite modalități de afișare a rezultatelor în Python.
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-07
 
@@ -60,9 +57,8 @@ Sfat: Folosiți întotdeauna () cu metodele (ex: .isalpha()) pentru a executa fu
 
 Tech: Python 🐍
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-08
 
@@ -72,9 +68,8 @@ PT: Programa simples que lê dois números reais, calcula a soma entre eles e ex
 EN: A simple program that reads two real numbers, calculates their sum, and displays the formatted result.
 RO: Un program simplu care citește două numere reale, calculează suma lor și afișează rezultatul formatat.
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-09
 
@@ -87,9 +82,8 @@ PT: Minha evolução com operadores aritméticos.
 EN: My progress with arithmetic operators in Python.
 RO: Progresul meu cu operatorii aritmetici în Python.
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-13
 
@@ -104,9 +98,8 @@ Concepts: input(), int(), f-strings, and .format().
 🇷🇴 Script pentru a calcula predecesorul și succesorul unui număr întreg.
 Concepte: input(), int(), f-strings și .format().
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-14
 
@@ -121,9 +114,8 @@ Explores f-strings, the .format() method, and decimal formatting {:.2f}.
 🇷🇴 Script pentru a calcula dublul, triplul, a treia parte și rădăcina pătrată a unui număr.
 Explorează f-strings, metoda .format() și formatarea zecimală {:.2f}.
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-16
 
@@ -140,9 +132,8 @@ Explorează tipurile de date (str, int, float, bool) și utilizarea if, elif și
 
 Tech: Python 🐍
 
-
-############################################################
-
+<br>
+<br>
 
 📌 2026-04-17
 
