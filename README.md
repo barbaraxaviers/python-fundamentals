@@ -192,3 +192,27 @@ Explorează tipurile de date (`str`, `int`, `float`, `bool`) și utilizarea `if`
 ---
 **Tech:** Python 🐍
 
+
+
+
+## 17.04.2026
+
+# Conversor de Medidas / Unit Converter / Convertor de Unități
+
+
+**BR**
+Script para conversão de unidades de medida a partir do metro. 
+Trabalha com operadores aritméticos de multiplicação e divisão para percorrer a escala (km, hm, dam, m, dm, cm, mm).
+
+
+**US**
+Script for converting measurement units starting from meters. 
+Uses multiplication and division arithmetic operators to move through the scale (km, hm, dam, m, dm, cm, mm).
+
+
+**RO**
+Script pentru conversia unităților de măsură începând de la metru. 
+Utilizează operatori aritmetici de înmulțire și împărțire pentru a parcurge scara (km, hm, dam, m, dm, cm, mm).
+
+---
+**Tech:** Python 🐍
