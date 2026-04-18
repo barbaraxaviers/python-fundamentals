@@ -1,4 +1,4 @@
-📚 python-fundamentals
+*📚 python-fundamentals*
 
 🇧🇷 Português
 Exercícios práticos para fixação de sintaxe, manipulação de dados e lógica de programação.
@@ -16,6 +16,8 @@ Este repositório contém meus exercícios do curso de Python do Gustavo Guanaba
 
 
 
+
+
 📅 Progresso / Progress / Progres
 📌 2026-04-05
 
@@ -24,6 +26,8 @@ Este repositório contém meus exercícios do curso de Python do Gustavo Guanaba
 PT: Formas de interagir com o usuário e diferentes estilos de print.
 EN: Ways to interact with the user and different print styles.
 RO: Modalități de a interacționa cu utilizatorul și diferite stiluri de print.
+
+
 
 
 
@@ -36,6 +40,8 @@ Topic: Data Types & Output
 PT: Exercícios práticos sobre tipos primitivos, entrada de dados e diferentes formas de exibição de resultados em Python.
 EN: Practical exercises on primitive types, data input, and different ways to display results in Python.
 RO: Exerciții practice despre tipuri primitive, introducerea datelor și diferite modalități de afișare a rezultatelor în Python.
+
+
 
 
 
@@ -56,6 +62,8 @@ Tech: Python 🐍
 
 
 
+
+
 📌 2026-04-08
 
 🧾 Descrição / Description / Descriere
@@ -63,6 +71,8 @@ Tech: Python 🐍
 PT: Programa simples que lê dois números reais, calcula a soma entre eles e exibe o resultado formatado.
 EN: A simple program that reads two real numbers, calculates their sum, and displays the formatted result.
 RO: Un program simplu care citește două numere reale, calculează suma lor și afișează rezultatul formatat.
+
+
 
 
 
@@ -76,6 +86,8 @@ After: Using f-string alignment {tabuada:2} for a more structured layout.
 PT: Minha evolução com operadores aritméticos.
 EN: My progress with arithmetic operators in Python.
 RO: Progresul meu cu operatorii aritmetici în Python.
+
+
 
 
 
@@ -94,6 +106,8 @@ Concepte: input(), int(), f-strings și .format().
 
 
 
+
+
 📌 2026-04-14
 
 ➗ Operações Aritméticas / Arithmetic Operations / Operații Aritmetice
@@ -106,6 +120,8 @@ Explores f-strings, the .format() method, and decimal formatting {:.2f}.
 
 🇷🇴 Script pentru a calcula dublul, triplul, a treia parte și rădăcina pătrată a unui număr.
 Explorează f-strings, metoda .format() și formatarea zecimală {:.2f}.
+
+
 
 
 
@@ -123,6 +139,8 @@ Explores data types (str, int, float, bool) and the use of if, elif, and else.
 Explorează tipurile de date (str, int, float, bool) și utilizarea if, elif și else.
 
 Tech: Python 🐍
+
+
 
 
 
