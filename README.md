@@ -14,7 +14,7 @@ Scop: Construirea bazei pentru proiectul Finance Guru.
 
 Este repositório contém meus exercícios do curso de Python do Gustavo Guanabara, mostrando minha evolução desde a lógica básica até um código mais estruturado e legível.
 
-
+<br>
 ############################################################
 
 
