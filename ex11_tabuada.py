@@ -1,0 +1,30 @@
+num = int(input('Digite um numero:'))
+print('===============')
+print('-'*12)
+print('{} x {:2} = {}'.format (num, 1, num*1))
+print(f'{num} x {1:2} = {num*1}')
+print('{} x {:2} = {}'.format (num, 2, num*2))
+print(f'{num} x {2:2} = {num*2}')
+print('{} x {:2} = {}'.format (num, 3, num*3))
+print(f'{num} x {3:2} = {num*3}')
+print('{} x {:2} = {}'.format (num, 4, num*4))
+print(f'{num} x {4:2} = {num*4}')
+print('{} x {:2} = {}'.format (num, 5, num*5))
+print(f'{num} x {5:2} = {num*5}')
+print('{} x {:2} = {}'.format (num, 6, num*6))
+print(f'{num} x {6:2} = {num*6}')
+print('{} x {:2} = {}'.format (num, 7, num*7))
+print(f'{num} x {7:2} = {num*7}')
+print('{} x {:2} = {}'.format (num, 8, num*8))
+print(f'{num} x {8:2} = {num*8}')
+print('{} x {:2} = {}'.format (num, 9, num*9))
+print(f'{num} x {9:2} = {num*9}')
+print('{} x {:2} = {}'.format (num, 10, num*10))
+print(f'{num} x {10:2} = {num*10}')
+print('===============')
+#ou
+print('-'*12) 
+
+
+# :2 - para deixar 2 digitos, questão de estética - para alinhar 
+#forma manual para fazer a tabuada.
