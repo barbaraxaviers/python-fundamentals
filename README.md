@@ -149,3 +149,24 @@ Uses multiplication and division to move through the scale (km, hm, dam, m, dm, 
 Utilizează înmulțirea și împărțirea pentru a parcurge scara (km, hm, dam, m, dm, cm, mm).
 
 Tech: Python 🐍
+
+<br>
+<br>
+
+📌 2026-04-21
+
+🔢 Tabuada / Multiplication Table / Tabla Înmulțirii
+
+🇧🇷 Português
+Script que lê um número inteiro e exibe sua tabuada de 1 a 10.
+Explora diferentes formas de formatação de saída utilizando .format() e f-strings, além do alinhamento de valores ({:2}) para melhor organização visual.
+
+🇺🇸 English
+Script that reads an integer and displays its multiplication table from 1 to 10.
+Explores different output formatting methods using .format() and f-strings, as well as value alignment ({:2}) for better visual organization.
+
+🇷🇴 Română
+Script care citește un număr întreg și afișează tabla înmulțirii de la 1 la 10.
+Explorează diferite metode de formatare a ieșirii folosind .format() și f-strings, precum și alinierea valorilor ({:2}) pentru o organizare vizuală mai bună.
+
+Tech: Python 🐍
