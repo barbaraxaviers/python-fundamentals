@@ -170,3 +170,27 @@ Script care citește un număr întreg și afișează tabla înmulțirii de la 1
 Explorează diferite metode de formatare a ieșirii folosind .format() și f-strings, precum și alinierea valorilor ({:2}) pentru o organizare vizuală mai bună.
 
 Tech: Python 🐍
+
+<br>
+<br>
+
+📌 2026-04-23
+
+💱 Conversor de Moedas / Currency Converter / Convertor Valutar
+
+🇧🇷 Português
+Script que lê um valor em reais (R$) e converte para diferentes moedas (dólar, euro e leu romeno - RON).
+Também realiza o processo inverso (de dólar para real).
+Explora diferentes formas de exibição com f-strings, .format() e uso da função round() para controle de casas decimais.
+
+🇺🇸 English
+Script that reads an amount in Brazilian reais (R$) and converts it into different currencies (US dollar, euro, and Romanian leu - RON).
+Also performs the reverse conversion (from dollar to real).
+Explores different output formatting methods using f-strings, .format(), and the round() function for decimal control.
+
+🇷🇴 Română
+Script care citește o sumă în reali brazilieni (R$) și o convertește în diferite monede (dolar american, euro și leu românesc - RON).
+De asemenea, realizează conversia inversă (din dolar în real).
+Explorează diferite metode de afișare folosind f-strings, .format() și funcția round() pentru controlul zecimalelor.
+
+Tech: Python 🐍
