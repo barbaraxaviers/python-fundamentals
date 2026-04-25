@@ -196,3 +196,36 @@ De asemenea, realizează conversia inversă (din dolar în real).
 Explorează diferite metode de afișare folosind f-strings, .format() și funcția round() pentru controlul zecimalelor.
 
 Tech: Python 🐍
+
+<br>
+<br>
+
+📌 2026-04-24
+
+🛠️ Diagnóstico de Rede / Network Diagnostic / Diagnostic de Rețea
+
+🇧🇷 Português
+
+Script de automação para suporte técnico que verifica a integridade da conexão local e externa.
+
+O programa testa a comunicação com o gateway da rede, servidores de internet (Google IP) e a resolução de nomes (DNS).
+
+Explora o uso das bibliotecas os e platform para executar comandos de terminal diretamente pelo Python, além de utilizar estruturas condicionais para interpretar os códigos de resposta do sistema.
+
+🇺🇸 English
+
+Automation script for technical support that verifies the integrity of local and external connections.
+
+The program tests communication with the network gateway, internet servers (Google IP), and name resolution (DNS).
+
+It explores the use of the os and platform libraries to execute terminal commands directly through Python, and it uses conditional structures to interpret system response codes.
+
+🇷🇴 Română
+
+Script de automatizare pentru suport tehnic care verifică integritatea conexiunii locale și externe.
+
+Programul testează comunicarea cu gateway-ul rețelei, serverele de internet (Google IP) și rezoluția numelor (DNS).
+
+Explorează utilizarea bibliotecilor os și platform pentru a executa comenzi de terminal direct prin Python, utilizând totodată structuri condiționale pentru a interpreta codurile de răspuns ale sistemului.
+
+Tech: Python 🐍
