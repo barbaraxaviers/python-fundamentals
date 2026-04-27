@@ -229,3 +229,27 @@ Programul testează comunicarea cu gateway-ul rețelei, serverele de internet (G
 Explorează utilizarea bibliotecilor os și platform pentru a executa comenzi de terminal direct prin Python, utilizând totodată structuri condiționale pentru a interpreta codurile de răspuns ale sistemului.
 
 Tech: Python 🐍
+
+<br>
+<br>
+
+📌 2026-04-27
+
+🎨 Cálculo de Área e Tinta / Wall Area & Paint Calculator / Calculul Ariei și Vopselei
+
+🇧🇷 Português
+Script que lê a largura e a altura de uma parede, calcula sua área e determina a quantidade de tinta necessária para pintá-la.
+Considera que 1 litro de tinta cobre 2m².
+Explora entrada de dados, operações aritméticas e diferentes formas de formatação de saída (f-strings e .format()).
+
+🇺🇸 English
+Script that reads the width and height of a wall, calculates its area, and determines the amount of paint needed.
+Assumes that 1 liter of paint covers 2 square meters.
+Explores user input, arithmetic operations, and different output formatting methods (f-strings and .format()).
+
+🇷🇴 Română
+Script care citește lățimea și înălțimea unui perete, calculează aria acestuia și determină cantitatea de vopsea necesară.
+Presupune că 1 litru de vopsea acoperă 2m².
+Explorează introducerea datelor, operații aritmetice și diferite metode de afișare (f-strings și .format()).
+
+Tech: Python 🐍
