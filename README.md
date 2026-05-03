@@ -253,3 +253,42 @@ Presupune că 1 litru de vopsea acoperă 2m².
 Explorează introducerea datelor, operații aritmetice și diferite metode de afișare (f-strings și .format()).
 
 Tech: Python 🐍
+
+<br>
+<br>
+
+📌 2026-04-03
+
+💸 Descontos e Aumentos / Discounts & Increases / Reduceri și Majorări
+
+🇧🇷 Português
+Script que calcula desconto e aumento de preço de um produto.
+Inclui três abordagens:
+
+desconto fixo (5%)
+aumento fixo (10%)
+versão dinâmica, onde o usuário escolhe a porcentagem
+
+Explora operações com porcentagem, ordem de precedência e cálculo de valores reais a partir de taxas percentuais.
+
+🇺🇸 English
+Script that calculates price discounts and increases for a product.
+Includes three approaches:
+
+fixed discount (5%)
+fixed increase (10%)
+dynamic version where the user chooses the percentage
+
+Explores percentage calculations, operator precedence, and converting percentage rates into actual monetary values.
+
+🇷🇴 Română
+Script care calculează reduceri și majorări de preț pentru un produs.
+Include trei abordări:
+
+reducere fixă (5%)
+creștere fixă (10%)
+versiune dinamică, unde utilizatorul alege procentul
+
+Explorează calculele procentuale, ordinea operațiilor și transformarea procentelor în valori reale.
+
+Tech: Python 🐍
