@@ -293,3 +293,22 @@ Explorează calculele procentuale, ordinea operațiilor și transformarea procen
 
 
 Tech: Python 🐍
+
+
+<br>
+<br>
+📌 2026-07-09
+🔍Reajuste Salarial e Formatação de Strings / Salary Readjustment and String Formatting / Reajustarea salariului și formatarea stringurilor
+
+
+🇧🇷 Script para calcular aumento percentual e testar três formas diferentes de formatar casas decimais em Python. 
+Dica: Para dinheiro, dê preferência para f-strings com :.2f, pois o round() pode omitir os centavos se o valor for redondo.
+
+
+🇺🇸 Script to calculate a percentage increase and test three different ways to format decimal places in Python. 
+Tip: For currency, prefer f-strings with :.2f, as round() may omit cents if the value is a whole number.
+
+
+🇷🇴 Script pentru calcularea unei măriri procentuale și testarea a trei moduri diferite de a formata zecimalele în Python. Sfat: Pentru valută, preferați f-strings cu :.2f, deoarece round() poate omite cenții dacă valoarea este un număr întreg.
+
+Tech: Python 🐍
