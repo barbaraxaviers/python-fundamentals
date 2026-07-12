@@ -298,6 +298,7 @@ Tech: Python 🐍
 <br>
 <br>
 📌 2026-07-09
+
 🔍Reajuste Salarial e Formatação de Strings / Salary Readjustment and String Formatting / Reajustarea salariului și formatarea stringurilor
 
 
@@ -311,4 +312,23 @@ Tip: For currency, prefer f-strings with :.2f, as round() may omit cents if the 
 
 🇷🇴 Script pentru calcularea unei măriri procentuale și testarea a trei moduri diferite de a formata zecimalele în Python. Sfat: Pentru valută, preferați f-strings cu :.2f, deoarece round() poate omite cenții dacă valoarea este un număr întreg.
 
+Tech: Python 🐍
+
+
+<br>
+<br>
+
+📌 2026-07-12
+
+🔍 Conversor de Temperatura e Precedência / Temperature Converter and Precedence / Convertor de temperatură și precedență
+
+🇧🇷 Script para converter Celsius em Fahrenheit. Inclui notas sobre a função round() (que arredonda para o inteiro mais próximo) e a ordem de precedência dos operadores em Python: 1º (), 2º , 3º *, /, //, %, 4º +, -. Operadores de mesmo peso são resolvidos da esquerda para a direita.
+
+
+
+🇺🇸 Script to convert Celsius to Fahrenheit. Includes notes on the round() function (which rounds to the nearest integer) and the order of operator precedence in Python: 1st (), 2nd , 3rd *, /, //, %, 4th +, -. Operators with the same weight are evaluated from left to right.
+
+
+
+🇷🇴 Script pentru a converti Celsius în Fahrenheit. Include note despre funcția round() (care rotunjește la cel mai apropiat număr întreg) și ordinea de precedență a operatorilor în Python: 1 (), 2 , 3 *, /, //, %, 4 +, -. Operatorii cu aceeași pondere sunt evaluați de la stânga la dreapta.
 Tech: Python 🐍
