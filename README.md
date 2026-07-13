@@ -331,4 +331,23 @@ Tech: Python 🐍
 
 
 🇷🇴 Script pentru a converti Celsius în Fahrenheit. Include note despre funcția round() (care rotunjește la cel mai apropiat număr întreg) și ordinea de precedență a operatorilor în Python: 1 (), 2 , 3 *, /, //, %, 4 +, -. Operatorii cu aceeași pondere sunt evaluați de la stânga la dreapta.
+
+Tech: Python 🐍
+
+
+<br>
+<br>
+
+📌 2026-07-12
+
+🔍 Aluguel de Carros Customizado / Customized Car Rental / Închiriere de mașini personalizată
+
+🇧🇷 Desafio de aluguel de carros tunado com novas variáveis (seguro e multa por atraso). Demonstra como capturar múltiplos inputs, realizar cálculos encadeados e aplicar formatação de moeda com f-strings.
+
+
+🇺🇸 Upgraded car rental challenge with new variables (insurance and late fees). Demonstrates how to handle multiple inputs, perform chained calculations, and apply currency formatting with f-strings.
+
+
+🇷🇴 Provocare de închiriere auto îmbunătățită cu noi variabile (asigurare și taxe de întârziere). Demonstrează cum se gestionează intrări multiple, se realizează calcule înlănțuite și se aplică formatarea valutară cu f-strings.
+
 Tech: Python 🐍
