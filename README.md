@@ -25,7 +25,9 @@ Este repositório contém meus exercícios do curso de Python do Gustavo Guanaba
 📝 Today's Focus / Foco de Hoje / Obiectivul de Astăzi
 
 PT: Formas de interagir com o usuário e diferentes estilos de print.
+
 EN: Ways to interact with the user and different print styles.
+
 RO: Modalități de a interacționa cu utilizatorul și diferite stiluri de print.
 
 <br>
@@ -38,7 +40,9 @@ RO: Modalități de a interacționa cu utilizatorul și diferite stiluri de prin
 Topic: Data Types & Output
 
 PT: Exercícios práticos sobre tipos primitivos, entrada de dados e diferentes formas de exibição de resultados em Python.
+
 EN: Practical exercises on primitive types, data input, and different ways to display results in Python.
+
 RO: Exerciții practice despre tipuri primitive, introducerea datelor și diferite modalități de afișare a rezultatelor în Python.
 
 <br>
